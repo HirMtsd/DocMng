@@ -16,3 +16,11 @@ https://pymupdf.readthedocs.io/en/latest/
 - zerox
 PDF,DOCXのMarkdown化
 https://github.com/getomni-ai/zerox
+
+
+## 各種文書
+### 行政文書
+行政文書をマークダウン化しよう！
+https://metidx-gov.note.jp/n/n2bd18b23dba3
+
+
