@@ -23,4 +23,6 @@ https://github.com/getomni-ai/zerox
 行政文書をマークダウン化しよう！
 https://metidx-gov.note.jp/n/n2bd18b23dba3
 
+条項・条文をcode blockで括る際に自動改行されないことへの対応策
+https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues/33
 
