@@ -17,6 +17,16 @@ https://pymupdf.readthedocs.io/en/latest/
 PDF,DOCXのMarkdown化
 https://github.com/getomni-ai/zerox
 
+## サンプル
+
+https://github.com/matiassingers/awesome-readme
+
+https://shields.io/
+
+https://keepachangelog.com/
+
+https://semver.org/spec/
+
 
 ## 各種文書
 ### 行政文書
