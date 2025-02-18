@@ -19,13 +19,23 @@ https://github.com/getomni-ai/zerox
 
 ## サンプル
 
+Awesome README
 https://github.com/matiassingers/awesome-readme
 
+Make a README
+https://www.makeareadme.com/
+
+Shields.io (バッジ)
 https://shields.io/
 
+Keep a Changelog (変更履歴)
 https://keepachangelog.com/
 
+Semantic Versioning
 https://semver.org/spec/
+
+絵文字チートシート
+https://github.com/ikatyang/emoji-cheat-seet/blob/master/README.md
 
 
 ## 各種文書
