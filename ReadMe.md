@@ -28,6 +28,18 @@ https://www.makeareadme.com/
 Shields.io (バッジ)
 https://shields.io/
 
+shields.ioを使って技術系アイコンを量産した 2020-05-16
+https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
+
+https://img.shields.io/badge/-CISSP-white?log=isc2
+https://img.shields.io/badge/-CISSP-468145?log=isc2&labelColor=white
+
+プライベートリポジトリでもBudgeを貼りたい 2023-12-01
+https://qiita.com/ma91n/items/6c572c5887a50223c2b1
+Shields.io経由でだいたいなんでも自由にバッジ表示する 2017-12-14
+https://qiita.com/ymtszw/items/77d1d6bbe0687848470b
+
+
 Keep a Changelog (変更履歴)
 https://keepachangelog.com/
 
