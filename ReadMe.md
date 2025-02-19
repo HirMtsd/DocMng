@@ -33,6 +33,9 @@ https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
 
 https://img.shields.io/badge/-CISSP-white?log=isc2
 https://img.shields.io/badge/-CISSP-468145?log=isc2&labelColor=white
+https://img.shields.io/badge/Python-3.10-3776AB?log=python&labelColor=white
+https://img.shields.io/badge/-Keybase-33A0FF?log=keybase&labelColor=white
+https://img.shields.io/badge/Creative_Commons-CC--BY--4.0-ED592F?log=creativecommons&labelColor=white
 
 プライベートリポジトリでもBudgeを貼りたい 2023-12-01
 https://qiita.com/ma91n/items/6c572c5887a50223c2b1
