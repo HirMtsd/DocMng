@@ -17,6 +17,13 @@ https://pymupdf.readthedocs.io/en/latest/
 PDF,DOCXのMarkdown化
 https://github.com/getomni-ai/zerox
 
+
+- グラフ
+graphviz
+
+matplotlib
+
+  
 ## サンプル
 
 Awesome README
