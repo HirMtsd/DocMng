@@ -20,6 +20,7 @@ https://github.com/getomni-ai/zerox
 
 - グラフ
 graphviz
+https://graphviz.org/
 
 matplotlib
 
