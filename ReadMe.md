@@ -27,6 +27,7 @@ https://matplotlib.org/
 
 mermaid
 https://github.com/mermaid-js/mermaid
+https://github.com/mermaid-js/mermaid-cli
 
 draw.io
 https://github.com/jgraph/drawio-desktop
