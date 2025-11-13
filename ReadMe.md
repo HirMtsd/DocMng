@@ -65,12 +65,20 @@ https://keepachangelog.com/
 Semantic Versioning
 https://semver.org/spec/
 
+
+
 絵文字チートシート
 https://github.com/ikatyang/emoji-cheat-seet/blob/master/README.md
 
 ライセンス
 https://gigazine.net/news/20180607-choose-a-license/
 https://www.gnu.org/licenses/license-list.html.en
+
+
+## 参考
+数式の無いドキュメントに LaTeX を使うことは意義があるのか - 日常のカフスボタン https://share.google/2pp8bbc9RxxyJwJua
+
+
 
 
 ## 各種文書
