@@ -58,6 +58,7 @@ https://qiita.com/ma91n/items/6c572c5887a50223c2b1
 Shields.io経由でだいたいなんでも自由にバッジ表示する 2017-12-14
 https://qiita.com/ymtszw/items/77d1d6bbe0687848470b
 
+## CHANGELOG
 
 Keep a Changelog (変更履歴)
 https://keepachangelog.com/
@@ -70,9 +71,15 @@ https://semver.org/spec/
 絵文字チートシート
 https://github.com/ikatyang/emoji-cheat-seet/blob/master/README.md
 
+
+## LICENCE
 ライセンス
 https://gigazine.net/news/20180607-choose-a-license/
 https://www.gnu.org/licenses/license-list.html.en
+
+## コミットメッセージ
+Conventional Commits
+https://note.com/st_dev0/n/n8eccdc549129
 
 
 ## 参考
