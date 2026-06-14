@@ -79,6 +79,7 @@ https://www.gnu.org/licenses/license-list.html.en
 
 ## コミットメッセージ
 Conventional Commits
+https://www.conventionalcommits.org/ja/
 https://note.com/st_dev0/n/n8eccdc549129
 
 
