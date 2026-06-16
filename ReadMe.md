@@ -1,9 +1,11 @@
 # DocMng
+ドキュメントの記述方法や管理方法のまとめ
+- ドキュメント変換ツール
+- ドキュメント記述のベストプラクティス
 
-ドキュメント変換ツール
 
 ## ツール
-
+### 変換
 
 - DocUtil
 TextのHTML,LaTeX,man page,OpenDocument,XML化
@@ -17,7 +19,7 @@ https://pymupdf.readthedocs.io/en/latest/
 PDF,DOCXのMarkdown化
 https://github.com/getomni-ai/zerox
 
-
+### 図表
 - グラフ
 graphviz
 https://graphviz.org/
@@ -33,8 +35,8 @@ draw.io
 https://github.com/jgraph/drawio-desktop
 
   
-## サンプル
-
+## ベストプラクティス(サンプル)
+### ReadMe
 Awesome README
 https://github.com/matiassingers/awesome-readme
 
@@ -58,7 +60,7 @@ https://qiita.com/ma91n/items/6c572c5887a50223c2b1
 Shields.io経由でだいたいなんでも自由にバッジ表示する 2017-12-14
 https://qiita.com/ymtszw/items/77d1d6bbe0687848470b
 
-## CHANGELOG
+### CHANGELOG
 
 Keep a Changelog (変更履歴)
 https://keepachangelog.com/
@@ -72,12 +74,12 @@ https://semver.org/spec/
 https://github.com/ikatyang/emoji-cheat-seet/blob/master/README.md
 
 
-## LICENCE
+### LICENCE
 ライセンス
 https://gigazine.net/news/20180607-choose-a-license/
 https://www.gnu.org/licenses/license-list.html.en
 
-## コミットメッセージ
+### コミットメッセージ
 Conventional Commits
 https://www.conventionalcommits.org/ja/
 https://note.com/st_dev0/n/n8eccdc549129
