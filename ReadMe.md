@@ -34,7 +34,12 @@ https://github.com/mermaid-js/mermaid-cli
 draw.io
 https://github.com/jgraph/drawio-desktop
 
-  
+## QRコード
+【簡単】QRコードの作成と読み取り in Python
+https://qiita.com/PoodleMaster/items/0afbce4be7e442e75be6
+
+
+
 ## ベストプラクティス(サンプル)
 ### ReadMe
 Awesome README
