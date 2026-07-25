@@ -95,6 +95,16 @@ https://github.com/ikatyang/emoji-cheat-seet/blob/master/README.md
 https://gigazine.net/news/20180607-choose-a-license/
 https://www.gnu.org/licenses/license-list.html.en
 
+CC BY-NC-ND
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja
+
+PolyForm Noncommercial License
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+OSSライセンス解説
+https://jpn.nec.com/oss/osslc/doc/20210828_ODC.pdf
+
+
 ### コミットメッセージ
 Conventional Commits
 https://www.conventionalcommits.org/ja/
