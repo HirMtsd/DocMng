@@ -7,6 +7,11 @@
 
 ## ツール
 ### 変換
+- Pandoc
+文書ファイルの相互変換
+https://pandoc.org/
+https://pandoc.org/MANUAL.html
+https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html
 
 - DocUtil
 TextのHTML,LaTeX,man page,OpenDocument,XML化
