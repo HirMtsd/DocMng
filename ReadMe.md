@@ -44,9 +44,11 @@ https://github.com/jgraph/drawio-desktop
 【簡単】QRコードの作成と読み取り in Python
 https://qiita.com/PoodleMaster/items/0afbce4be7e442e75be6
 
-PyPi
+Python qrcode
 https://pypi.org/project/qrcode/
 
+## 他の二次元コード
+Python treepoem
 
 
 ## ベストプラクティス(サンプル)
