@@ -103,7 +103,7 @@ https://polyformproject.org/licenses/noncommercial/1.0.0
 
 OSSライセンス解説
 https://jpn.nec.com/oss/osslc/doc/20210828_ODC.pdf
-
+https://tech.bitbank.cc/20210823/
 
 ### コミットメッセージ
 Conventional Commits
