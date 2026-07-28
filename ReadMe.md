@@ -114,6 +114,10 @@ https://www.conventionalcommits.org/ja/
 https://note.com/st_dev0/n/n8eccdc549129
 
 
+### Docstring Conventions
+[Docstring Conventions](https://peps.python.org/pep-0257/)
+https://github.com/whosaysni/pep-ja/blob/master/pep-0257.rst
+
 ## 参考
 数式の無いドキュメントに LaTeX を使うことは意義があるのか - 日常のカフスボタン https://share.google/2pp8bbc9RxxyJwJua
 
