@@ -49,7 +49,10 @@ https://pypi.org/project/qrcode/
 
 ## 他の二次元コード
 Python treepoem
+https://pypi.org/project/treepoem/
 
+BWIPP
+https://github.com/bwipp/postscriptbarcode
 
 ## ベストプラクティス(サンプル)
 ### ReadMe
