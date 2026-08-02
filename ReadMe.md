@@ -40,6 +40,20 @@ https://github.com/mermaid-js/mermaid-cli
 draw.io
 https://github.com/jgraph/drawio-desktop
 
+PlantUML
+https://plantuml.com/ja/
+
+
+| ツール名 |	主な用途・分類 |	記述形式 |	主な強み |	弱点・注意点 |
+|:--    |:--    |:--    |:--    |:--    |
+|Graphviz	 | ネットワーク構造・有向グラフ	| DOT言語	    | 自動配置に優れ、大規模なノード構造に強い | 見栄えの細かい調整や最新デザイン化が難しい|
+|Matplotlib| データ分析・数値プロット	    | Pythonコード	| 統計グラフや複合データの自由な描画が可能 | 自動レイアウトのダイアグラム作成には不向き|
+|PlantUML	 | ソフトウェア設計（UML）	    | PlantUML構文 | UML全般を高機能にカバーし拡張性が高い | Java実行環境や外部サーバー連携が必要な場合がある|
+|Mermaid	 | Markdownドキュメント内作図	  | 軽量テキスト構文 | GitHub/Notion等で直接レンダリング可能 | 複雑な図や細かな配置制御には限界がある|
+|draw.io	 | 汎用ダイアグラム・システム構成図 | CSV / XML / Mermaid（GUI補完） | GUI主体の自由配置とテキスト生成の両立 | 純粋なコード管理・自動描画メインの運用には不向き|
+
+
+
 ## QRコード
 【簡単】QRコードの作成と読み取り in Python
 https://qiita.com/PoodleMaster/items/0afbce4be7e442e75be6
