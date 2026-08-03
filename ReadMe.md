@@ -26,21 +26,21 @@ PDF,DOCXのMarkdown化
 https://github.com/getomni-ai/zerox
 
 ### 図表
-- グラフ
-graphviz
+- グラフツール
+ - graphviz
 https://graphviz.org/
 
-matplotlib
+ - matplotlib
 https://matplotlib.org/
 
-mermaid
+ - mermaid
 https://github.com/mermaid-js/mermaid
 https://github.com/mermaid-js/mermaid-cli
 
-draw.io
+ - draw.io
 https://github.com/jgraph/drawio-desktop
 
-PlantUML
+ - PlantUML
 https://plantuml.com/ja/
 
 
